@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi People!
+
+Hani here, I like HTML,CSS and Javascript.
